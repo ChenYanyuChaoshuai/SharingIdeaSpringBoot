@@ -10,8 +10,8 @@ spring:
     protocol: smtp
     port: 465
   datasource:
-    url: jdbc:mysql://cdb-ov8hxkj0.bj.tencentcdb.com:10125/zhiku?characterEncoding=utf-8
-    username: zhiku
+    url: jdbc:mysql://211.87.227.234:3306/zhiku?characterEncoding=utf-8
+    username: root
     password: Zhiku_123
     driver-class-name: com.mysql.cj.jdbc.Driver
   mvc:
